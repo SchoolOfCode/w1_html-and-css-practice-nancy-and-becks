@@ -1,2 +1,6 @@
-h1 {font-size: 48px;}
-.blue {color:blue}
+body 
+{
+    margin: 0,25%,0,25%;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
